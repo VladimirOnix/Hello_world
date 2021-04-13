@@ -51,4 +51,6 @@ dependencies {
     implementation 'androidx.recyclerview:recyclerview:1.1.0'
     implementation("com.ibm.icu:icu4j:51.3")
     implementation "androidx.navigation:navigation-ui:2.3.4"
+
+    testImplementation 'junit:junit:4.12'
 }
